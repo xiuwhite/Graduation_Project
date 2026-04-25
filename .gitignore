@@ -1,0 +1,37 @@
+# PyCharm / IntelliJ 配置
+.idea/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 日志文件
+*.log
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+
+# 深度学习模型文件
+*.pth
+*.pt
+*.onnx
+*.ckpt
+
+# 数据集文件
+data/
+raw_data/
